@@ -3,7 +3,7 @@ Get source code of any website through the 🔗
 
 # $ git clone https://thedrjunfiltered.github.io/getsource
 
-# $ CD getsource
+# $ cd getsource
 
 # $ls
 
