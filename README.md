@@ -2,7 +2,13 @@
 Get source code of any website through the 🔗
 
 #
-$ gitclone https://thedrjunfiltered.github.io/getsource/
+$ git clone https://thedrjunfiltered.github.io/getsource
 
 # 
-$ mytool.py
+$ CD getsource
+
+#
+$ls
+
+#
+$ python mytool.py
