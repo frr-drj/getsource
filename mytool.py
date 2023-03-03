@@ -1,4 +1,3 @@
-                                                                                                                      mytool.py                                                                                                                        Modified
 import requests
 
 print("Get the source of website")
