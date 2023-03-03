@@ -1,10 +1,12 @@
-# getsource
+# #getsource
 Get source code of any website through the 🔗
 
-# $ git clone https://thedrjunfiltered.github.io/getsource
+##Installation
 
-# $ cd getsource
+1. ``` $ git clone https://thedrjunfiltered.github.io/getsource
 
-# $ls
+2. ``` $ cd getsource
 
-# $ python mytool.py
+3. ``` $ls
+
+4. ``` $ python mytool.py
