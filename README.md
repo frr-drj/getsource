@@ -1,5 +1,8 @@
 # getsource
 Get source code of any website through the 🔗
 
-# clone to terminal
-$ gitclone 
+#
+$ gitclone https://thedrjunfiltered.github.io/getsource/
+
+# 
+$ mytool.py
