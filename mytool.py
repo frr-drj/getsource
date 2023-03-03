@@ -1,6 +1,6 @@
 import requests
 
-print("Get the source of website")
+Print("Get the source of website")
 url = input("Enter a URL: ")
 response = requests.get(url)
 
