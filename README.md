@@ -6,12 +6,12 @@ Include;- XML,HTML,CSS, PYTHON,JAVA, C ,C+,C++,C#,PHP ....
 
 _CONTRIBUTION By_
  
-``` Cyber-D | kdo ```
+``` https://github.com/kdo2064 ```
 
 
 ## Installation
 
-1. ``` git clone https://thedrjunfiltered.github.io/getsource ```
+1. ``` git clone https://github.com/thedrjbot/getsource ```
 
 2. ``` cd getsource ```
 
